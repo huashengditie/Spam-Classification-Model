@@ -1,9 +1,10 @@
 # Spam-Classification-Model
-A machine-learning spam classifier that predicts spam vs non-spam by analyzing word choice and word-frequency patterns in text messages.
-Implemented an end-to-end pipeline including dataset preprocessing, CountVectorizer feature extraction, Multinomial Naive Bayes training, and confusion matrix evaluation.
-Simplified version of same language-pattern approach to healthcare research, such as tracking patient recovery progress by analyzing changes in word usage and emotional tone in clinical notes or patient journaling.
-"""
-README
+-A machine-learning spam classifier that predicts spam vs non-spam by analyzing word choice and word-frequency patterns in text messages.
+
+-Implemented an end-to-end pipeline including dataset preprocessing, CountVectorizer feature extraction, Multinomial Naive Bayes training, and confusion matrix evaluation.
+
+-Simplified version of same language-pattern approach to healthcare research, such as tracking patient recovery progress by analyzing changes in word usage and emotional tone in clinical notes or patient journaling.
+
 
 ### What this does
 - Trains a Multinomial Naive Bayes classifier on the SMS Spam Collection dataset.
